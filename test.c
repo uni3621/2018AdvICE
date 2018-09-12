@@ -5,5 +5,6 @@ int main(void){
 	print("advice");
 	print("uni");
 
+	print("saf");
 	return 0;
 }
